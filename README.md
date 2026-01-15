@@ -13,8 +13,8 @@
 
 <img align="right" width="260" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif"/>
 
-i’m an **applied optics student** learning to code — slowly, honestly, and with intention.
-
+✨ **Who am I?**
+- 🎓 B.Tech student (CSE)
 - 🌱 beginner in tech, consistent in effort  
 - 📚 in love with fiction, journaling & self-growth  
 - 💻 learning **web development & problem solving**  
