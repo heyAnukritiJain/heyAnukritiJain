@@ -1,32 +1,32 @@
-
-<!-- HERO SECTION -->
+<!-- SOFT HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=250&section=header&text=Hi,%20I'm%20Anukriti%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fadadd,100:fcefee&height=180&section=header&text=hi,%20i'm%20anukriti%20🤍&fontSize=36&fontColor=6d6875&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=COMPUTER+SCIENCE+Student+🔬;Aspiring+Software+Engineer+💻;Beginner+Web+Developer+🌱;Lifelong+Learner+✨"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=22&pause=1200&color=CDB4DB&center=true&vCenter=true&width=650&lines=softly+learning+%26+building;applied+optics+student;future+software+engineer;romanticizing+growth+daily"/>
 </p>
 
 ---
 
-## 🌷 About Me
+## 🤍 about me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="260" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif"/>
 
-✨ **Who am I?**
-- 🎓 B.Tech student (CSE)
-- 💻 Learning **Web Development & DSA**
-- 🌱 Beginner but consistent
-- 🎯 Dream: **Software Engineer at Google**
-- 📚 Loves reading fiction & self-growth
-- 💖 Believes in slow growth & authenticity
+i’m an **applied optics student** learning to code — slowly, honestly, and with intention.
 
-> *"Little steps every day lead to big changes."*
+- 🌱 beginner in tech, consistent in effort  
+- 📚 in love with fiction, journaling & self-growth  
+- 💻 learning **web development & problem solving**  
+- 🎯 dream: building meaningful things as a software engineer  
+- ✨ believer in quiet discipline & becoming, not rushing  
+
+> *“take the moment and taste it — you’ve got no reason to be afraid.”*  
+> — *taylor swift*
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🕊 tech i work with
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=light"/>
@@ -34,114 +34,103 @@
 
 <table align="center">
 <tr>
-<th>Category</th>
-<th>Skills</th>
+<th align="left">area</th>
+<th align="left">tools</th>
 </tr>
 <tr>
-<td>Frontend</td>
-<td>HTML, CSS, JavaScript</td>
+<td>frontend</td>
+<td>html, css, javascript</td>
 </tr>
 <tr>
-<td>Programming</td>
-<td>Python, C (basic)</td>
+<td>programming</td>
+<td>python (basics)</td>
 </tr>
 <tr>
-<td>Tools</td>
-<td>Git, GitHub, VS Code</td>
+<td>tools</td>
+<td>git, github, vs code</td>
 </tr>
 <tr>
-<td>Currently Learning</td>
-<td>DSA, JavaScript Projects</td>
+<td>learning</td>
+<td>dsa, js projects</td>
 </tr>
 </table>
 
 ---
 
-## 🚀 Projects
+## 🌸 selected projects
 
 <table align="center">
 <tr>
-<th>Project</th>
-<th>Description</th>
-<th>Tech Used</th>
+<th>project</th>
+<th>description</th>
+<th>stack</th>
 </tr>
 
 <tr>
-<td>🧮 Calculator App</td>
-<td>Simple calculator supporting addition & subtraction</td>
-<td>HTML, CSS, JavaScript</td>
+<td>calculator app</td>
+<td>minimal calculator with clean UI</td>
+<td>html · css · js</td>
 </tr>
 
 <tr>
-<td>🌐 Personal Website</td>
-<td>Portfolio website (in progress)</td>
-<td>HTML, CSS</td>
+<td>personal portfolio</td>
+<td>soft aesthetic website (in progress)</td>
+<td>html · css</td>
 </tr>
 
 <tr>
-<td>📚 Practice Programs</td>
-<td>Basic coding & logic building programs</td>
-<td>Python</td>
+<td>practice programs</td>
+<td>logic & fundamentals practice</td>
+<td>python</td>
 </tr>
 </table>
 
 ---
 
-## 🏆 Achievements
+## ✨ milestones & growth
 
-✨ Earned **stipends & scholarships**  
-✨ Consistent learner & self-starter  
-✨ Completed beginner-level web projects  
-✨ Actively improving problem-solving skills  
+- earned **stipends & scholarships**
+- completed beginner-level web projects
+- building consistency over perfection
+- showing up even on quiet days
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=gruvbox&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&margin-w=10"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📖 github in numbers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=rose_pine"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=rose_pine"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=rose_pine"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 💌 let’s connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/linkedin-f4acb7?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-fad0c4?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-ff9a9e?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/email-fadadd?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 💖 A Little Reminder
+## 🌷 gentle reminder
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fad0c4,100:ff9a9e&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fcefee,100:fadadd&height=100&section=footer"/>
 </p>
