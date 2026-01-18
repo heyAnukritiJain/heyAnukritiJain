@@ -11,8 +11,6 @@
 
 ## 🤍 about me
 
-<img align="right" width="260" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif"/>
-
 ✨ **Who am I?**
 - 🎓 B.Tech student (CSE)
 - 🌱 beginner in tech, consistent in effort  
