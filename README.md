@@ -95,7 +95,7 @@
 - showing up even on quiet days
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=heyAnukritiJain&theme=flat&no-frame=true&margin-w=10"/>
 </p>
 
 ---
