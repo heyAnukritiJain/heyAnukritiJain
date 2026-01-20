@@ -113,7 +113,7 @@
 ## 💌 let’s connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/anukriti-jain-617286320">
     <img src="https://img.shields.io/badge/linkedin-f4acb7?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
