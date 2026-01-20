@@ -92,10 +92,6 @@
 - building consistency over perfection
 - showing up even on quiet days
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=heyAnukritiJain&theme=flat&no-frame=true&margin-w=10"/>
-</p>
-
 ---
 
 ## 📖 github in numbers
@@ -131,7 +127,7 @@
 ## 🌷 gentle reminder
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
+  <em>becoming takes time — and that’s okay 🤍</em>
 </p>
 
 <p align="center">
