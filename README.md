@@ -116,7 +116,7 @@
   <a href="https://www.linkedin.com/in/anukriti-jain-617286320">
     <img src="https://img.shields.io/badge/linkedin-f4acb7?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:jainanukriti04@gmail.com">
     <img src="https://img.shields.io/badge/email-fadadd?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
