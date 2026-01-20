@@ -101,11 +101,11 @@
 ## 📖 github in numbers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heyAnukritiJain&show_icons=true&hide_border=true&theme=rose_pine&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=heyAnukritiJain&show_icons=true&hide_border=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heyAnukritiJain&hide_border=true&theme=rose_pine"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=heyAnukritiJain&hide_border=true&theme=rose_pine&disable_total_commits=true"/>
 </p>
 
 <p align="center">
