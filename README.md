@@ -129,7 +129,3 @@
 <p align="center">
   <em>becoming takes time — and that’s okay 🤍</em>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fcefee,100:fadadd&height=100&section=footer"/>
-</p>
