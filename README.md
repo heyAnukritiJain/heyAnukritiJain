@@ -84,7 +84,6 @@
 
 ## ✨ milestones & growth
 
-- earned **stipends & scholarships**
 - completed beginner-level web projects
 - building consistency over perfection
 - showing up even on quiet days
