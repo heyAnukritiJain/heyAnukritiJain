@@ -19,9 +19,6 @@
 - 🎯 dream: building meaningful things as a software engineer  
 - ✨ believer in quiet discipline & becoming, not rushing  
 
-> *“take the moment and taste it — you’ve got no reason to be afraid.”*  
-> — *taylor swift*
-
 ---
 
 ## 🕊 tech i work with
