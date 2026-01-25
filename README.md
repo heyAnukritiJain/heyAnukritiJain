@@ -1,5 +1,5 @@
 <!-- SOFT HEADER -->
-<p align="center">
+<p align="left">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fadadd,100:fcefee&height=180&section=header&text=hi,%20i'm%20anukriti%20🤍&fontSize=36&fontColor=6d6875&animation=fadeIn"/>
 </p>
 
