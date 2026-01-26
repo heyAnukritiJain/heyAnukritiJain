@@ -54,7 +54,7 @@
 
 ## 🌸 selected projects
 
-<table align="center">
+<table align="right">
 <tr>
 <th>project</th>
 <th>description</th>
