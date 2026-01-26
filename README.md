@@ -109,7 +109,7 @@
 
 ## 💌 let’s connect
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/anukriti-jain-617286320">
     <img src="https://img.shields.io/badge/linkedin-f4acb7?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
