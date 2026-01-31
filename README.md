@@ -23,7 +23,7 @@
 
 ## 🕊 tech i work with
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=light"/>
 </p>
 
