@@ -27,7 +27,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=light"/>
 </p>
 
-<table align="left">
+<table align="center">
 <tr>
 <th align="left">area</th>
 <th align="left">tools</th>
