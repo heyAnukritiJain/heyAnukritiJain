@@ -11,7 +11,7 @@
   
 ## 🤍 about me 
 
-✨ **Who am I?**
+✨ **Who am I?**  
 - 🎓 B.Tech student (CSE)
 - 🌱 beginner in tech, consistent in effort  
 - 📚 in love with fiction, dancing & self-growth  
