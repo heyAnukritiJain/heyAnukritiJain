@@ -15,7 +15,7 @@
 - 🎓 B.Tech student (CSE)
 - 🌱 beginner in tech, consistent in effort  
 - 📚 in love with fiction, dancing & self-growth  
-- 💻 learning **web development & problem solving**  
+- 💻 learning **web development & problem solving**   
 - 🎯 dream: building meaningful things as a software engineer  
 - ✨ believer in quiet discipline & becoming, not rushing  
 
