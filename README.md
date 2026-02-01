@@ -9,7 +9,7 @@
 
 ---
 
-## 🤍 about me
+## 🤍 about me 
 
 ✨ **Who am I?**
 - 🎓 B.Tech student (CSE)
