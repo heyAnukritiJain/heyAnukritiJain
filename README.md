@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=22&pause=1200&color=CDB4DB&center=true&vCenter=true&width=650&lines=softly+learning+%26+building;COMPUTER+SCIENCE+student+🔬;aspiring+software+engineer+💻;beginner+web+developer+🌱;romanticizing+growth+daily "/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=22&pause=1200&color=CDB4DB&center=true&vCenter=true&width=650&lines=softly+learning+%26+building;COMPUTER+SCIENCE+student+🔬;aspiring+software+engineer+💻;beginner+web+developer+🌱;romanticizing+growth+daily"/>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 ✨ **Who am I?**  
 - 🎓 B.Tech student (CSE)
 - 🌱 beginner in tech, consistent in effort  
-- 📚 in love with fiction, dancing & self-growth  
+- 📚 in love with fiction, dancing & self-growth
 - 💻 learning **web development & problem solving**   
 - 🎯 dream: building meaningful things as a software engineer  
 - ✨ believer in quiet discipline & becoming, not rushing  
