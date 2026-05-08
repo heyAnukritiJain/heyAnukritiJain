@@ -12,8 +12,8 @@
 ## 🤍 about me 
 
 ✨ **Who am I?**  
-- 🎓 B.Tech student (CSE)
-- 🌱 beginner in tech, consistent in effort  
+- 🎓 B.Tech student (CSE) 2028 batch
+- 🌱 building full-stack products 
 - 📚 in love with fiction, dancing & self-growth
 - 💻 learning **web development & problem solving**     
 - 🎯 dream: building meaningful things as a software engineer  
